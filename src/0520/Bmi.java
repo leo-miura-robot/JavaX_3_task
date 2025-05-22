@@ -1,5 +1,4 @@
 package control_statement ;
-
 import java.util.Scanner;
 
 public class Bmi {

@@ -10,7 +10,7 @@ public class ArrayList_practive {
             System.out.println("名前入れてね");
             String name = scan.nextLine();
             if (name.equals("end")) {
-                break;            
+                break;
             }
             else{
                 name_list.add(name);
